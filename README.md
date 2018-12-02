@@ -1,4 +1,4 @@
-# dndChatStats
+# dndCharStats
 
 This is my first program in a while, and the main reason why is loss of inspiration.
 
